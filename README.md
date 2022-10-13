@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilsinghhub
 - 👀 I’m interested in Cloud & DevOps
-- 🌱 I’m currently 
+- 🌱 I’m currently looking for entry level job in Cloud
 - 💞️ I’m looking to collaborate in Cloud 
 - 📫 Reach me https://www.linkedin.com/in/nikhilsingh90/
 
